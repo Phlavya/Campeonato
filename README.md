@@ -3,6 +3,10 @@
 Tabela do Campeonato Brasileiro Série A
 
 
-**Projeto prático GoDev**
-link(https://github.com/Phlavya/Campeonato.git)
-Acesse Gh pages
+
+# Projeto prático GoDev
+link ( https://github.com/Phlavya/Campeonato.gi
+  
+### Acesse as páginas gh
+
+
